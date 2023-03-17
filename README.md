@@ -1,4 +1,4 @@
-# conflict
+# Conflicto
 Prueba de un conflicto
 
 otra otra
